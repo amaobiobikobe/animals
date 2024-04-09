@@ -6,3 +6,8 @@ Canivorous animals
 Lion
 Dog
 Tiger
+
+Omnivorous animals
+Human
+Bears
+Fish
