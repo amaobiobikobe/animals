@@ -6,3 +6,9 @@ Canivorous animals
 Lion
 Dog
 Tiger
+
+
+Herbivorous animals
+Goat
+Sheep
+Cow
