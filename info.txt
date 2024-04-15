@@ -7,8 +7,15 @@ Lion
 Dog
 Tiger
 
+<<<<<<< HEAD
 
 Herbivorous animals
 Goat
 Sheep
 Cow
+=======
+Omnivorous animals
+Human
+Bears
+Fish
+>>>>>>> ft-omnivorous
