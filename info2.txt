@@ -1,0 +1,14 @@
+This file is going to contain the name of certain animals
+
+
+
+Canivorous animals
+Lion
+Dog
+Tiger
+
+Omnivorous animals
+Human
+Bears
+Fish
+

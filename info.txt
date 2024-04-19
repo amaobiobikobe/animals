@@ -16,5 +16,4 @@ Cow
 Omnivorous animals
 Human
 Bears
-Fish
 
