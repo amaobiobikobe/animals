@@ -1,14 +1,8 @@
-This file is going to contain the name of certain animals
+Scientific names of animals
 
-
-
-Canivorous animals
-Lion
-Dog
-Tiger
-
-Omnivorous animals
-Human
-Bears
-Fish
+Panthera Leo
+Ursus arctos
+Canis Lupus
+Homo sapiens
+Elephas Maximus
 
